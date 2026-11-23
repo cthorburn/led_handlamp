@@ -1,0 +1,76 @@
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 674:Plugin executed on: 'win32'
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 675:Plugin executed with python version: '3.11.5 (main, Jan 23 2026, 07:39:48) [MSC v.1944 64 bit (AMD64)]'
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 676:KiCad build version: 10.0.6
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 677:Plugin version: 5.0.0
+
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 678:Frame repr: <wx._core.Frame object at 0x000001E65009E050>
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint IRW2 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint ILW1 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint ILW5 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint OLW1 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint ORR4 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint IRR1 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint OLW3 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J1 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint IRW1 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint IRR5 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint IRR3 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint OLW2 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint OLR1 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint ORR5 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint IRW3 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint ORR1 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint ILW3 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint ILR1 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint IRW4 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint OLW4 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint ORW1 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint OLR2 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint ILW4 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint OLR5 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint ILR5 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint IRW5 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint ORW5 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint ILW2 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint ILR2 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint ORW4 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint ILR4 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint OLW5 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint ORW3 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint ORR3 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint IRR2 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint ORR2 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint ILR3 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint IRR4 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint OLR4 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint ORW2 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint OLR3 on root level
+10-17 14:39:39 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 717:Reference footprint='OLR1'
+10-17 14:39:40 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 858:Reference designator is: OLR
+10-17 14:39:40 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 859:Reference number is: 1
+10-17 14:39:40 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 891:Sorted and filtered list:
+['OLR1', 'OLR2', 'OLR3', 'OLR4', 'OLR5']
+10-17 14:39:40 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 376:wx.Colour(240, 240, 240, 255)
+10-17 14:40:00 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 507:'30'
+10-17 14:40:00 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 559:Preparing config for reference circular
+10-17 14:40:00 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 573:Saving config file
+10-17 14:40:00 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 575:Saved the config file
+10-17 14:40:00 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 929:Footprints to place:
+['OLR1', 'OLR2', 'OLR3', 'OLR4', 'OLR5']
+10-17 14:40:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 359:Starting placing with circular layout
+10-17 14:40:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 369:reference footprint position at: VECTOR2I(113030000, 31750000)
+10-17 14:40:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 374:rotation center at: (113030000, 61750000.0)
+10-17 14:40:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: OLR1 has property "Keep upright" rotation might not look as intended
+10-17 14:40:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: OLR1 has property "Keep upright" rotation might not look as intended
+10-17 14:40:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: OLR1 has property "Keep upright" rotation might not look as intended
+10-17 14:40:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: OLR1 has property "Keep upright" rotation might not look as intended
+10-17 14:40:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: OLR1 has property "Keep upright" rotation might not look as intended
+10-17 14:40:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: OLR1 has property "Keep upright" rotation might not look as intended
+10-17 14:40:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: OLR1 has property "Keep upright" rotation might not look as intended
+10-17 14:40:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: OLR1 has property "Keep upright" rotation might not look as intended
+10-17 14:40:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: OLR1 has property "Keep upright" rotation might not look as intended
+10-17 14:40:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: OLR1 has property "Keep upright" rotation might not look as intended
+10-17 14:40:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: OLR1 has property "Keep upright" rotation might not look as intended
+10-17 14:40:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: OLR1 has property "Keep upright" rotation might not look as intended
+10-17 14:40:00 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 944:Placing complete
